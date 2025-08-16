@@ -64,4 +64,3 @@ This project uses an **STM32F4 Discovery Board** and its onboard **LIS302DL 3-ax
 
 ## 📜 License
 MIT License – free to modify and use.
-# STM32-LIS302DL-Motion-Tracker
