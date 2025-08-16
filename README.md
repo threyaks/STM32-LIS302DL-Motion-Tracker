@@ -58,7 +58,7 @@ This project uses an **STM32F4 Discovery Board** and its onboard **LIS302DL 3-ax
 ---
 
 ## 📸 Output Demo
-![Tilt detection LEDs](output_demo/tilt_leds.jpg)
+
 
 ---
 
